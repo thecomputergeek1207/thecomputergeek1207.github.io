@@ -1,0 +1,177 @@
+<! DOCTYPE html>
+<html>
+<head>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#section1 {
+    background-color:#eeeeee;
+    color:black;
+    text-align:left;
+    padding:5px;	      
+}
+#section2 {
+    Background-color:#ABB2B9  ;
+    color:black;
+    text-align:left:
+    padding:10px;	 	 
+}
+#section3 {
+ background-color:#AED6F1;
+ color:black;
+text-align:left;
+padding:5px:
+}
+#section4{
+background-color:#ABEBC6;
+color:black;
+text-align;left;
+padding:5px:
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+<title>William Galarza Resume</title>
+</head>
+<body style="background-color:lightgrey">
+
+<div id="header">
+<h1 style="text-align:center">William Galarza Resume</h1>
+</div>
+
+<p style="text-align:center">Email: thecomputergeek1207@gmail.com</p>
+<p style="text-align:center">Address: 946 Itzehoe ave nw</p>
+<p style="text-align:center">Palm Bay, Florida 32907,USA</p>
+<p style="text-align:center">Cell(321)505-7213 or (321)544-7105</p>
+
+<div id="section1">
+<h3>OBJECTIVE:</h3>
+<p>To obtain a position in a reputable business that will enable me to utilize the skills gained from experience. 
+My knowledge in the electronic field will provide outstanding quality, and service for any company.  
+Currently enrolled in (CTU) Colorado Technical University, in November of this year 2016 I will obtain my degree,
+Bachelor Of Science in Information Technology. My concentration is (BSIT) - Software Systems Engineering Specialization.
+Please take some time to review resume with some skills I will be able to provide. </p>
+</div>
+<div id="section2">
+<h3>TECHNICAL QUALIFICATIONS:</h3>
+<ul>
+<li>Experienced Webmaster & Developing tools with state-of-the-art Web and Windows technologies.</li><li>The broad education necessary in understanding the impact of engineering solutions in a global, economic, environmental, and societal context</li>
+<li>Performed creative and technical design, developing of a major websites.</li><li>Ability to recognize the need for, and an ability to engage in life-long learning.</li>
+<li>Proficient with HTML, MS Office, SQL, Access, Word, excel, Java, UNIX/LINUX, MAC, Windows software.</li><li>A knowledge of contemporary issues</li>
+<li>Outstanding communication, organizational and project management skills.</li><li>An ability to use the techniques, skills, and modern engineering tools necessary for engineering practice</li>
+<li>An ability to apply knowledge of mathematics, science, and engineering</li><li>Electrical Technology</li>
+<li>An ability to design and conduct experiments, as well as analyze to interpret data</li><li>Communications/Networking Digital Technology</li>
+<li>An ability to design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufactured, and sustainability</li><li>Lab Technician</li>
+<li>An ability to function on multidisciplinary teams</li><li>Final Test Tech</li>
+<li>An ability to identify, formulate, and solve engineering problems</li><li>Quality Control/Assurance</li>
+<li>An understanding of professional and ethical responsibility</li><li>Department Lead</li>
+<li>An ability to communicate effectively</li><li>Machine Operator</li>
+<li>Solder Certified 610</li><li>knowledge of Wave and paste solder</li>
+<li>Knowledge of building repairing Cables and cable harness</li><li>Fiber optic repair</li>
+<li>Computer Repair and installation</li><li>RF Calibration Specialist</li>
+<li>An ability to apply ISO 9001 standards</li><li>An ability to apply Six Sigma standards</li>
+</ul>
+</div>
+<div id="section3">
+<h3>TECHNOLOGY EXPERIENCE:</h3>
+<div id="section4">
+<h3>Company:Sun Nuclear</h3>
+<h4>Position held:Electronic Manufacture</h4>
+<p>Time employed 01/13 to 01/14</p>
+<p>3275 Suntree Boulevard</p>
+<p>Melbourne, FL 32940</p>
+<p>Phone#(321) 259-6862</p>
+<a href=" http://www.sunnuclear.com/home.asp"> Sun Nuclear Website</a>
+
+<ul>
+<li>Rewarding to be able to provide the community with a fresh approach to radiation measurement by improving the measurement quality while also streamlining the process.</li>
+<li>It was gratifying producing modular patient dosimetry systems, the first routine QA device with a standard PC trending database, the first film-less 2D array, and the first programmable patient-specific gating and target motion QA solution.</li>
+<li>Honored to have participated in the building of equipment that saves lives.</li>
+</ul>
+</div>
+<br>
+<div id="section4">
+<h3>Company:Lockheed Martin</h3>
+<h4>Postion held: Quality Assurance Inspector</h4>
+<p>Time employed 11/03 to 06/10 also 05/11 to 02/12</p>
+<p>4301 Woodland Park Drive</p>
+<p>Melbourne Florida 32904</p>
+<p>Phone#(321) 327-6300</p>
+<a href="http://www.lockheedmartin.com">Lockheed Martin Website</a>
+<ul>
+<li>Define problems, collect data and properly document resolutions. Ensure that the appropriate changes are made to address problems. Report any issues with materials and/or processes to QA Management for analysis and disposition</li>
+<li>Troubleshoot manufacturing process conditions that adversely affect product quality</li>
+<li>Fully perform extensive and thorough QA procedures for one department and can facilitate the needs of any other area when needed.</li>
+<li>Gratifying to participate in developing and manufacturing security systems for the military.</li>
+</ul>
+</div>
+<br>
+<div id= "section4">
+<h3>Company: Sector Microwave</h3>
+<h4>Test Technicain</h4>
+<p>Time employed: 08/96 to 03/03 also 07/10 to 05/12</p>
+<p>999 Grand blvd, Deer Park NY 11729</p>
+<p>Phone#(631)242-2300</p>
+<a href="http://www.sectormicrowave.com/"> Sector Mirowave Website </a> 
+<ul>
+<li>Responsible developing, building and repairing RF Satellite Communication Devices/equipment.</li>
+<li>Environmental testing and final inspection (Quality Control Dept.)</li>
+<li>Wave soldering, through whole soldering and troubleshooting as well as repair of RF communication Devices/equipment.</li>
+</ul>
+</div>
+<br>
+<div id= "section4">
+<h3>Company: Hetra Secure Solutions</h3>
+<h4>Electronic Manufacturing Technician</h4>
+<p>Time employed: 01/07 to 08/09</p>
+<ul>
+<li>Repairing, troubleshooting down to component level of defense computer systems.</li>
+<li>Building and Servicing of various electronic components/equipment.</li>
+<li>Engineering and building prototype electronic equipment.</li>
+<li>Soldering through hole surface mount, wave soldering, paste soldering, and wiring</li>
+</ul>
+</div>
+<br>
+<div id= "section4">
+<h3>Company: Maronda Systems Inc. </h3>
+<h4>HVAC Installer</h4>
+<p>Time employed: 01/04 to 02/07</p>
+<p>4005 MARONDA WAY</p>
+<p>SANFORD,  FL  32771-6503</p>
+<p>Phone# (407) 321-0064</p>
+<a href="http://www.maronda.com/"> Maronda Systems</a>
+<p>Installation and repair of HVAC systems</p>
+</div>
+<br>
+</div>
+
+<h3>EDUCATION</h3>
+<ul>
+<li>CTU Colorado Technical University<br>
+Program: Bachelor of Science in Information Technology<br>
+Concentration: Software Systems Engineering Specialization<br></li>
+<li>Brevard Community College, Palm Bay, FL<br>
+HVAC Technician Certification</li>
+<li>Suburban Technical School, East Islip, NY<br>
+Certification of Digital Computer Technology</li>
+</ul>
+
+
+<h5>LANGUAGES: Bi-ligual(Spanish & English)</h5>
+
+
+<div id="footer">
+Created by: William Galaza
+</div>
+
+</body>
+</html>
